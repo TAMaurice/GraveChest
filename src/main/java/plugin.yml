@@ -1,0 +1,5 @@
+name: GraveChest
+version: 1.0-SNAPSHOT
+author: TAMaurice, Strafey
+main: de.TAMaurice.Main
+api-version: Spigot-API 1.17.1-R0.1-SNAPSHOT
